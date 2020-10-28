@@ -1,0 +1,21 @@
+.login-form{
+  width : 100%;
+  max-width:330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+  padding-top: 20px;
+}
+::placeholder{
+  font-size: 14px;
+}
+hr.new{
+  border: 1px solid rgb(66, 63, 63);
+}
+
+.mr-auto  a{
+  color: white;
+}
+.mr-auto  a:hover{
+  color: aqua;
+}
