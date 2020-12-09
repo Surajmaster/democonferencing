@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/democonferencing/static/css/main.779e5a27.chunk.css",
+    "main.js": "/democonferencing/static/js/main.0020b2d3.chunk.js",
+    "main.js.map": "/democonferencing/static/js/main.0020b2d3.chunk.js.map",
+    "runtime-main.js": "/democonferencing/static/js/runtime-main.27583814.js",
+    "runtime-main.js.map": "/democonferencing/static/js/runtime-main.27583814.js.map",
+    "static/css/2.2a86faee.chunk.css": "/democonferencing/static/css/2.2a86faee.chunk.css",
+    "static/js/2.e8e527da.chunk.js": "/democonferencing/static/js/2.e8e527da.chunk.js",
+    "static/js/2.e8e527da.chunk.js.map": "/democonferencing/static/js/2.e8e527da.chunk.js.map",
+    "index.html": "/democonferencing/index.html",
+    "precache-manifest.587dd25d65d8f7273b729e39ffcd5aad.js": "/democonferencing/precache-manifest.587dd25d65d8f7273b729e39ffcd5aad.js",
+    "service-worker.js": "/democonferencing/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/democonferencing/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.779e5a27.chunk.css.map": "/democonferencing/static/css/main.779e5a27.chunk.css.map",
+    "static/js/2.e8e527da.chunk.js.LICENSE.txt": "/democonferencing/static/js/2.e8e527da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27583814.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.e8e527da.chunk.js",
+    "static/css/main.779e5a27.chunk.css",
+    "static/js/main.0020b2d3.chunk.js"
+  ]
+}
