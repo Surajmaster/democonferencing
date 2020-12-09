@@ -24,7 +24,9 @@ const Example = (props) => {
   return (
     <div>
       <Navbar color="dark" dark expand="md">
-        <NavbarBrand href="/">Conferencing | </NavbarBrand>
+        <NavbarBrand className="mr-auto">
+          <NavLink><Link to="/">Conferencing | </Link></NavLink>
+        </NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
@@ -55,7 +57,7 @@ const Example = (props) => {
               </DropdownMenu>
             </UncontrolledDropdown>
           </Nav>
-          <NavLink><Link to="/Login">Sign In</Link></NavLink>
+          <NavLink><Link to="/Signin">Sign In</Link></NavLink>
           <NavLink><Link to="/Signup">Sign Up</Link></NavLink>
         </Collapse>
       </Navbar>
